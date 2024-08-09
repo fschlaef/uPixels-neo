@@ -1,4 +1,6 @@
-# μPixels (microPixels)
+# μPixels-neo (microPixels-neo)
+
+Fork of https://github.com/petabite/uPixels with new features
 
 ![logo](https://raw.githubusercontent.com/petabite/uPixels/master/images/apple-icon-114x114px.png)
 
